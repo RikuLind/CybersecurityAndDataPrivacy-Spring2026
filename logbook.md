@@ -4,4 +4,12 @@
 | :---         |     :---:      |     :---:      |     :---:      |
 | 13.1.2026 | 5 | Introduction to Cybersecurity | Finished all modules |
 | 14.1.2026 | 0.5 | Git repo and logbook | Created git repo and logbook |
-| 26.1.2026 | 0.5 | Introduction to Portswigger | Created account in Portswigger |
+| 15.1.2026 | 2 | Cybersecurity and data privacy -lecture | Attended the lecture |
+| 21.1.2026 | 2 | Cybersecurity and data privacy -lecture | Attended the lecture |
+| 26.1.2026 | 0.5 | Introduction to Portswigger | Created account in Portswigger and explored the contents of the site |
+| 29.1.2026 | 1 | Introduction to Portswigger | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data -lab completed |
+| 29.1.2026 | 1 | Introduction to Portswigger | SQL injection vulnerability allowing login bypass -lab completed |
+| 29.1.2026 | 1 | Introduction to Portswigger | Username enumeration via different responses -lab completed |
+| 29.1.2026 | 1 | Introduction to Portswigger | 2FA simple bypass -lab completed |
+| 29.1.2026 | 1 | Introduction to Portswigger | Unprotected admin functionality -lab completed |
+| 29.1.2026 | 1 | Introduction to Portswigger | Unprotected admin functionality with unpredictable URL -lab completed |
