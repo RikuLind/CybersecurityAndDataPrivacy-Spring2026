@@ -81,6 +81,8 @@ Critical
 **Purpose:**  
 - Attach or link your OWASP ZAP scan results (Markdown format preferred).
 
+https://github.com/RikuLind/CybersecurityAndDataPrivacy-Spring2026/blob/main/BookingSystem/Phase1/zap_report_round1.md
+
 ---
 
 **Instructions:**
