@@ -17,3 +17,5 @@
 | 3.2.2026 | 0.5 | Booking System Phase 1, Part 1 | Created clean folder and downloaded Docker compose file |
 | 3.2.2026 | 4 | Booking System Phase 1, Part 1 | Ran tests on the target |
 | 3.2.2026 | 2 | Booking System Phase 1, Part 1 | Wrote the report |
+| 11.2.2026 | 4 | Booking System Phase 1, Part 2 | Ran second round of tests, recorded evidence of fixes and vulnerabilities still present in the system |
+| 11.2.2026 | 2 | Booking System Phase 1, Part 2 | Wrote the report in the general discussion post |
