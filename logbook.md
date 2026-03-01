@@ -21,3 +21,5 @@
 | 11.2.2026 | 2 | Booking System Phase 1, Part 2 | Wrote the report in the general discussion post |
 | 18.2.2026 | 2 | Booking System Phase 2 | Ran penetration tests e.g. ZAP active scan, checked database and created round 3 ZAP report |
 | 18.2.2026 | 2 | Booking System Phase 2 | Cracked 5 passwords from the database, took screenshots and wrote the required report in ItsLearning |
+| 1.3.2026 | 2 | Booking System Phase 3 | Tested website manually and with ZAP, Gobuster and wfuzz |
+| 1.3.2026 | 1 | Booking System Phase 3 | Created ZAP report and wrote auth report during testing |
