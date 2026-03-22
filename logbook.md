@@ -23,3 +23,5 @@
 | 18.2.2026 | 2 | Booking System Phase 2 | Cracked 5 passwords from the database, took screenshots and wrote the required report in ItsLearning |
 | 1.3.2026 | 2 | Booking System Phase 3 | Tested website manually and with ZAP, Gobuster and wfuzz |
 | 1.3.2026 | 1 | Booking System Phase 3 | Created ZAP report and wrote auth report during testing |
+| 11.3.2026 | 5 | Portswigger | 5 Portswigger labs completed |
+| 16.3.2026 | 5 | Portswigger | 5 Portswigger labs completed |
